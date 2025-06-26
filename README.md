@@ -80,7 +80,7 @@ describe('Integration: Plugin with Character', () => {
 });
 ```
 
-E2E tests use ElizaOS test interface:
+E2E tests always use ElizaOS test interface:
 
 ```typescript
 // E2E test example (e2e/project.test.ts)
